@@ -1,4 +1,4 @@
-6999
+7005
 146C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\utility-types\dist\utility-types.d.ts133516961313502467 0
 123C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\semver\LICENSE133516961296069366 0
 160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133516961347984431 0
@@ -37,6 +37,9 @@
 158C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\node_modules\entities\lib\index.js.map133516961323127559 0
 140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\regions\MG.js133516961349002956 0
 106C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\index.html133516959357472248 0
+104C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\.netlify133517051567599813 1
+117C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\argparse133516961306223250 1
+131C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\dom-serializer\lib\esm133516961310699529 1
 135C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\node-addon-api\except.gypi133516961301924918 0
 131C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\semver\functions\lt.js133516961313673903 0
 150C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\esm\_wrap_async_generator.js133516961335080906 0
@@ -49,12 +52,14 @@
 141C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\utils\src\relativeUrl.js133516961325273115 0
 140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\regions\MH.js133516961349032988 0
 124C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\source-map\dist133516961315596503 1
+137C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\postcss-value-parser\LICENSE133516961295992825 0
+106C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\.gitignore133517049812797556 0
 145C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\reporter-tracer\package.json133516961301575843 0
 129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\msgpackr-extract\src133516961297262661 1
 165C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133516961318090318 0
 129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\findKey.js133516961345400593 0
 130C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\_freeGlobal.js133516961335005110 0
-102C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\app.js133517042569220318 0
+102C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\app.js133517055540048905 0
 158C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n133516961305987921 1
 137C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml-parser\package.json133516961302590409 0
 167C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.d.ts133516961324108391 0
@@ -73,7 +78,16 @@
 129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\_castSlice.js133516961330086046 0
 137C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\lib\sort.d.ts.map133516961324241872 0
 167C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator133516961329784154 1
-100C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist133517048145249807 1
+100C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist133517055629160684 1
+172C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133516961334308761 0
+148C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-tree\cjs\syntax\node\Percentage.cjs133516961328453265 0
+154C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\reporter-tracer\src\TracerReporter.js133516961299863715 0
+129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\stable\stable.min.js133516961302100500 0
+129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\isArray.js133516961347753686 0
+146C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-tree\cjs\syntax\node\Operator.cjs133516961327957163 0
+159C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js133516961306364031 0
+176C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json133516961314095534 0
+108C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\netlify.toml133517051605622479 0
 151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133516961337354103 0
 180C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertPathData.js133516961313584857 0
 117C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-tree133516961339491183 1
@@ -105,8 +119,6 @@
 145C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_name_tdz_error133516961336792794 1
 150C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-tree\lib\syntax\node\ClassSelector.js133516961333242735 0
 137C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\nth-check\lib\parse.d.ts.map133516961312495371 0
-140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\regions\JE.js133516961347141235 0
-120C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\js-yaml\lib133516961317100232 1
 122C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\source-map-js133516961311852715 1
 121C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\cli-progress133516961310874977 1
 150C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\csso\node_modules\mdn-data\css\types.json133516961315503065 0
@@ -211,15 +223,9 @@
 132C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\braces\lib\constants.js133516961304693842 0
 119C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\ansi-regex133516961301840330 1
 123C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\srcset\license133516961296012989 0
-135C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\svgo\plugins\mergePaths.js133516961323675404 0
-159C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\README.md133516961327252352 0
-131C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\react-refresh\babel.js133516961297332917 0
-120C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\is-arrayish133516961304821558 1
 172C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure\package.json133516961336330307 0
 116C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\globals133516961303982291 1
 120C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\ansi-styles133516961301861318 1
-117C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\argparse133516961306223250 1
-131C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\dom-serializer\lib\esm133516961310699529 1
 137C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\packager-raw\LICENSE133516961296180931 0
 146C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\csso\lib\replace\AttributeSelector.js133516961323665402 0
 117C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\boolbase133516961298079870 1
@@ -342,6 +348,10 @@
 173C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\properties.json133516961313189725 0
 160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\getboundingclientrect.js133516961344286290 0
 121C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\svgo\LICENSE133516961295961746 0
+135C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\svgo\plugins\mergePaths.js133516961323675404 0
+159C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\README.md133516961327252352 0
+131C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\react-refresh\babel.js133516961297332917 0
+120C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\is-arrayish133516961304821558 1
 152C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133516961301894792 0
 144C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\workers\lib\web\WebChild.js133516961319822714 0
 119C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\is-extglob133516961300064548 1
@@ -375,7 +385,6 @@
 127C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\isNumber.js133516961348746143 0
 131C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\_copySymbols.js133516961331839707 0
 116C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\js-yaml133516961317819368 1
-151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml\node_modules\posthtml-parser\dist133516961305158130 1
 185C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133516961327583000 0
 148C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_instanceof\package.json133516961338891495 0
 138C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\json-parse-even-better-errors133516961301810322 1
@@ -1398,10 +1407,6 @@
 129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\replace.js133516961353784980 0
 130C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\escalade\package.json133516961301367158 0
 123C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\LICENSE133516961296263439 0
-172C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133516961334308761 0
-148C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-tree\cjs\syntax\node\Percentage.cjs133516961328453265 0
-154C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\reporter-tracer\src\TracerReporter.js133516961299863715 0
-129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\stable\stable.min.js133516961302100500 0
 140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\utils\src\bundle-url.js133516961306167868 0
 151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133516961330540302 0
 126C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\srcset\index.d.ts133516961302298052 0
@@ -1630,6 +1635,7 @@
 123C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml\types133516961303735253 1
 146C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml\node_modules\posthtml-parser133516961303636530 1
 135C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\wrapperLodash.js133516961359414756 0
+151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml\node_modules\posthtml-parser\dist133516961305158130 1
 154C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml\node_modules\posthtml-parser\license133516961296350349 0
 130C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\js-yaml\lib\dumper.js133516961305822283 0
 127C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\assignIn.js133516961339844966 0
@@ -1651,7 +1657,6 @@
 171C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133516961301159932 0
 154C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\src\_class_private_field_set.mjs133516961342371786 0
 130C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\posthtml\lib\index.js133516961299396259 0
-137C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\postcss-value-parser\LICENSE133516961295992825 0
 126C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\xorWith.js133516961359656299 0
 154C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_apply_descriptor_update133516961336495033 1
 125C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\divide.js133516961343817428 0
@@ -1783,7 +1788,6 @@
 156C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs133516961343954011 0
 130C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\lastIndexOf.js133516961349548484 0
 151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\lib\pseudo-selectors\aliases.js133516961301250101 0
-151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-kerning.js133516961343192792 0
 160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133516961342339880 0
 134C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\_initCloneByTag.js133516961336158860 0
 133C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\nullthrows\nullthrows.js133516961300679948 0
@@ -3203,9 +3207,6 @@
 129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\htmlnano\LICENSE.txt133516961329027024 0
 159C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133516961328172111 1
 133C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\isArguments.js133516961347713475 0
-129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\isArray.js133516961347753686 0
-146C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-tree\cjs\syntax\node\Operator.cjs133516961327957163 0
-159C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js133516961306364031 0
 135C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\isArrayBuffer.js133516961347803735 0
 130C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\entities\lib\index.js133516961306814087 0
 139C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\lodash\fp\isArrayLikeObject.js133516961347873627 0
@@ -3613,6 +3614,8 @@
 149C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\json-parse-even-better-errors\LICENSE.md133516961300458752 0
 129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\js-yaml\CHANGELOG.md133516961317694322 0
 129C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\csso\lib\compress.js133516961324666105 0
+140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\regions\JE.js133516961347141235 0
+120C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\js-yaml\lib133516961317100232 1
 150C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\cjs\_array_like_to_array.cjs133516961301377296 0
 124C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\js-yaml\LICENSE133516961295931775 0
 160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\constraint-validation.js133516961329727449 0
@@ -3766,8 +3769,8 @@
 152C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\htmlnano\lib\modules\collapseWhitespace.cjs133516961303745303 0
 170C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\csso\node_modules\css-tree\lib\definition-syntax\tokenizer.js133516961338375719 0
 140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\htmlnano\lib\modules\custom.mjs133516961326494114 0
-160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.mjs133516961326562712 0
 151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-loading.js133516961343224845 0
+160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.mjs133516961326562712 0
 141C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\htmlnano\lib\modules\example.cjs133516961306257490 0
 151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\entities\lib\generated\decode-data-html.js133516961302210495 0
 170C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\CHANGELOG.md133516961332872601 0
@@ -4843,9 +4846,6 @@
 139C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\lib\attributes.d.ts133516961325780750 0
 157C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_to_consumable_array\package.json133516961340200197 0
 141C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\lib\attributes.js.map133516961317400643 0
-134C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\utils\src\glob.js133516961315565620 0
-158C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_wrap_async_generator\package.json133516961340702484 0
-151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-feature.js133516961343149600 0
 182C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts.map133516961314105540 0
 140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\css-select\lib\compile.d.ts.map133516961317859511 0
 176C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.js133516961306977372 0
@@ -5289,6 +5289,10 @@
 150C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\flexbox-gap.js133516961342891813 0
 146C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\flexbox.js133516961342923531 0
 160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-family-system-ui.js133516961343109410 0
+134C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\utils\src\glob.js133516961315565620 0
+158C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_wrap_async_generator\package.json133516961340702484 0
+151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-feature.js133516961343149600 0
+151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-kerning.js133516961343192792 0
 157C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-unicode-range.js133516961343372218 0
 180C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.js133516961315378548 0
 159C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\caniuse-lite\data\features\font-variant-numeric.js133516961343456912 0
@@ -5604,6 +5608,7 @@
 159C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133516961336309284 1
 148C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@babel\code-frame\node_modules\has-flag133516961300323658 1
 151C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_apply_descriptor_get133516961336360893 1
+115C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\.netlify\state.json133517051567577151 0
 141C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_call_check133516961336549468 1
 176C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json133516961321045999 0
 162C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\rust\parcel-node-bindings.linux-x64-musl.node133516961359238629 0
@@ -5721,7 +5726,7 @@
 178C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Dimension.js133516961317090036 0
 171C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json133516961337716625 0
 176C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json133516961337472435 0
-111C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist\index.html133517048145075852 0
+111C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist\index.html133517055629003255 0
 162C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_private_method_set\package.json133516961337429342 0
 163C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@swc\helpers\_\_class_private_method_init\package.json133516961337364252 0
 177C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser\index.js133516961325558168 0
@@ -6606,7 +6611,6 @@
 170C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\package.json133516961310731668 0
 177C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.json133516961313289665 0
 184C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.schema.json133516961313673903 0
-176C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json133516961314095534 0
 182C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.schema.json133516961315213733 0
 172C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\types.json133516961315462652 0
 179C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\types.schema.json133516961315864316 0
@@ -6845,6 +6849,7 @@
 148C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\core\src\ParcelConfig.schema.js133516961329707216 0
 140C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\core\src\projectPath.js133516961330510165 0
 155C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\core\src\registerCoreWithSerializer.js133516961331730851 0
+118C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist\index.5e331415.js133517055629033084 0
 143C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\core\src\ReporterRunner.js133516961332189862 0
 160C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@babel\highlight\node_modules\color-name\.npmignore133516961297521632 0
 134C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\node_modules\@parcel\core\src\requests133516961336041054 1
@@ -6998,3 +7003,4 @@
 119C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist\index.3a01df49.css133517029775121054 0
 118C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist\index.5baa4167.js133517046607640287 0
 122C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist\index.5baa4167.js.map133517046607682348 0
+122C:\Users\maitr\OneDrive\Documents\HEIGVD\Annee2\ProgWeb\Examen\maitre_zoe_m51-2_progweb\starter\dist\index.5e331415.js.map133517055629160684 0

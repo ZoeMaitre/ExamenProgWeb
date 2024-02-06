@@ -11,7 +11,7 @@ countries.then((data) => {
             new Country(el));
     });
 
-    //const tableauMelange = shuffle(tableauCountries);
+    const tableauMelange = shuffle(tableauCountries);
 
     //console.log(tableauCountries);
 
